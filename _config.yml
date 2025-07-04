@@ -20,11 +20,13 @@ author: Rafael
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Sobre mim: "aboutme"
+  Backup:
+    - Backup Exec: "https://beautifuljekyll.com"
+    - Veeam: "https://www.markdowntutorial.com/"
+  Microsoft:
+    - Windows Server: "https://beautifuljekyll.com"
+    - Azure: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
